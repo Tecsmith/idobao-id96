@@ -2,8 +2,8 @@
 
 It's the same as the YMDK Melody 96 ... but I thought it would want it's own identity.
 
-* [QMK Keyboard](tree/main/QMK/id96/) files
-* [VIA Keymap](tree/main/VIA/id96/) files
+* [QMK Keyboard](QMK/) files
+* [VIA Keymap](VIA/) files
 
 Have submitted to both QMK and VIA for inclusion - will remove this repo. if accepted / published there:
 
